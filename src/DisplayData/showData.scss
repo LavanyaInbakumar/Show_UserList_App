@@ -1,0 +1,30 @@
+.user_table img{
+    width: "70px";
+    border-radius: 50px;
+}
+.user_table tr td{
+    vertical-align: top !important;
+    display: table-cell;
+    background-color: #d6d2d2;
+}
+.user_table th{background-color: #7b7676;}
+.active_page{
+    width:10px !important;
+    color:white !important;
+    background-color: rgb(64, 64, 252) !important;
+    font-size: 15px !important;
+    padding: 5px 10px !important;
+    margin: 1px !important;
+    cursor: pointer;
+}
+.div_page span{
+    width: 10px;
+    color: black;
+    background-color: white;
+    font-size: 15px;
+    padding: 5px 10px;
+    margin: 1px;
+    border: 1px solid #d7d7e4;
+    cursor: pointer;
+}
+.div_page{padding:5px;margin:5px}
